@@ -15,7 +15,7 @@
 ## 🚀 Screenshots  
 | Home Screen | Product Details | Cart Page | Checkout |  
 |------------|---------------|-----------|-----------|  
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) |
+| ![Home](login/home.png) | ![Details](screenshots/details.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) |
 
 ## 🛠️ Tech Stack  
 - **Flutter** (Dart)  
