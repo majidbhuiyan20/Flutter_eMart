@@ -13,9 +13,9 @@
 ✅ **Dark Mode Support**  
 
 ## 🚀 Screenshots  
-| Login  | Signup | Home | Account | Categories |
+| Login  | Signup | Home | Categories | Account |
 |--------|--------|------|---------|------------|
-| ![Login](screenshots/login.jpg) | ![Signup](screenshots/signup.jpg) | ![Home](screenshots/home.jpg) | ![Account](screenshots/account.jpg) | ![Categories](screenshots/catago.jpg) |
+| ![Login](screenshots/login.jpg) | ![Signup](screenshots/signup.jpg) | ![Home](screenshots/home.jpg) | ![Categories](screenshots/catago.jpg) | ![Account](screenshots/account.jpg)  |
 
 ## 🛠️ Tech Stack  
 - **Flutter** (Dart)  
