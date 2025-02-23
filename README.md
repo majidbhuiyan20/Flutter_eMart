@@ -13,9 +13,9 @@
 ✅ **Dark Mode Support**  
 
 ## 🚀 Screenshots  
-| Home Screen | Product Details | Cart Page | Checkout |  
-|------------|---------------|-----------|-----------|  
-| ![Home](login/home.png) | ![Details](screenshots/details.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) |
+| Login  | Signup | Home | Account | Categories |
+|--------|--------|------|---------|------------|
+| ![Login](screenshots/login.jpg) | ![Signup](screenshots/signup.jpg) | ![Home](screenshots/home.jpg) | ![Account](screenshots/account.jpg) | ![Categories](screenshots/catago.jpg) |
 
 ## 🛠️ Tech Stack  
 - **Flutter** (Dart)  
