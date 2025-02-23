@@ -1,4 +1,6 @@
-cmake_minimum_required(VERSION 3.14)
+git branch -M main
+git remote add origin git@github.com:majidbhuiyan20/Flutter_eMart.git
+git push -u origin maincmake_minimum_required(VERSION 3.14)
 project(runner LANGUAGES CXX)
 
 # Define the application target. To change its name, change BINARY_NAME in the
