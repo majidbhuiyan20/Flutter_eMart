@@ -48,6 +48,6 @@ flutter run
 
 ## 🔗 Connect with Me  
 🔹 **GitHub**: [majidbhuiyan20](https://github.com/majidbhuiyan20)  
-🔹 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+🔹 **LinkedIn**: [Majid Bhuiyan](https://linkedin.com/in/majid-bhuiyan)  
 
 🚀 **Star this repo** if you like it! ⭐
